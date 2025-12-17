@@ -1,5 +1,4 @@
 import type ToDoType from "../../types/Todo.type"
-import ResponseType from "../../types/Response.type"
 import { getRequestJSON, postRequest } from "../../utils"
 import { API_URL } from "../../constants"
 
